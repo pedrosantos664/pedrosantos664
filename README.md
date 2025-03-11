@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou [Seu Nome] 👋
 
-<!--
-**pedrosantos664/pedrosantos664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Sou um(a) estudante de tecnoligia com paixão por desenvolvimento web. Adoro resolver problemas complexos e criar soluções inovadoras que impactam positivamente as pessoas.
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou aprendendo desenvolvimento web.
+- 💼 buscando minha primeira oportunidade na área de tecnologia 
+- 😄 Pronomes: ele/dele
+## Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedrosantos664&show_icons=true&theme=dark&hide_border=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantos664&layout=compact&theme=dark&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+⭐️ Feito com ❤️ por Pedro Batista (https://github.com/pedrosantos664)
