@@ -29,6 +29,7 @@ Sou um(a) estudante de tecnoligia com paixão por desenvolvimento web. Adoro res
   <img width="8" />
 </div>
 <br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=pedrosantos664&theme=transparent&hide_border=false)<br/>
 
 
