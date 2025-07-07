@@ -8,7 +8,7 @@ Sou um(a) estudante de tecnoligia com paixão por desenvolvimento web. Adoro res
 - 😄 Pronomes: ele/dele
 
 ## GitHub Stats 🌱​
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantos664&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantos664&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 <h3 align="left">My Stack ~</h3>
 
 <div align="left">
